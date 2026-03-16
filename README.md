@@ -95,19 +95,19 @@ def train_model(model, train_loader, num_epochs=3):
 ## OUTPUT
 ### Training Loss per Epoch
 
-<img width="561" height="298" alt="image" src="https://github.com/user-attachments/assets/d1963b72-31c4-4312-91bd-123a3ed6f356" />
+<img width="561" height="298" alt="image" src="https://github.com/Pavitra600/Image-Classification/blob/21a14dd0344a85a36dab182ea0de85c30beaff2c/Screenshot%202026-03-16%20092035.png" />
 
 ### Confusion Matrix
 
-<img width="1028" height="783" alt="image" src="https://github.com/user-attachments/assets/7df1277f-70ff-4815-8ce2-eaffddce8019" />
+<img width="1028" height="783" alt="image" src="https://github.com/Pavitra600/Image-Classification/blob/21a14dd0344a85a36dab182ea0de85c30beaff2c/Screenshot%202026-03-16%20092054.png" />
 
 ### Classification Report
 
-<img width="613" height="416" alt="image" src="https://github.com/user-attachments/assets/d13c10b4-9bfa-4118-81d6-f68148824b95" />
+<img width="613" height="416" alt="image" src="https://github.com/Pavitra600/Image-Classification/blob/21a14dd0344a85a36dab182ea0de85c30beaff2c/Screenshot%202026-03-16%20092108.png" />
 
 ### New Sample Data Prediction
 
-<img width="837" height="670" alt="image" src="https://github.com/user-attachments/assets/16ef7b4e-34e3-4db5-b9d9-ca5576464a60" />
+<img width="837" height="670" alt="image" src="https://github.com/Pavitra600/Image-Classification/blob/21a14dd0344a85a36dab182ea0de85c30beaff2c/Screenshot%202026-03-16%20092134.png" />
 
 ## RESULT
 Thus, We have developed a convolutional deep neural network for image classification to verify the response for new images.
